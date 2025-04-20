@@ -1,4 +1,14 @@
-# Loan-default-prediction
+# 🧠 LoanScan: AI Risk Scoring with ML Models
+
+This project uses machine learning to predict the risk of loan defaults based on real-world financial data. It replicates how banks and lenders assess creditworthiness using automated scoring systems.
+
+## ⚙️ Tech Stack
+
+- Python (Pandas, NumPy, Scikit-learn, XGBoost)
+- Data visualization: Seaborn, Matplotlib
+- Model evaluation: AUC, confusion matrix, precision-recall
+- SHAP for model explainability
+
 ## Context
 A major proportion of retail bank profit comes from interests in the form of home loans. These loans are borrowed by regular income/high-earning customers. Banks are most fearful of defaulters, as bad loans (NPA) usually eat up a major chunk of their profits. Therefore, it is important for banks to be judicious while approving loans for their customer base.
 
